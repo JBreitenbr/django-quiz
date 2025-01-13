@@ -41,9 +41,7 @@ INSTALLED_APPS = [
     "django_extensions",
     "corsheaders",
     "quizApi",
-    "quiz",
-    "spoti",
-    "salesApi"
+    "quiz"
 ]
 
 MIDDLEWARE = [
